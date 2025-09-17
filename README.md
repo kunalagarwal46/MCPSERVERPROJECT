@@ -1,4 +1,5 @@
 # Playwright Test Automation Project
+# Playwright Test Automation Project
 
 This project contains end-to-end tests using Playwright Test framework.
 
@@ -87,3 +88,6 @@ After test execution, you can find:
 5. Use test hooks (`beforeEach`, `afterEach`) for common setup/teardown
 6. Tag tests appropriately (e.g., @smoke, @regression)
 7. Keep tests independent and atomic
+=======
+# MCPSERVERPROJECT
+>>>>>>> 492e43be1b3a3f66d883ca71649385c32497d718
